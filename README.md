@@ -1,1 +1,1 @@
-# freeCodeCam--game-rock-paper-scissors
+# freeCodeCam--game-rock-paper-scissors in javaScript 
